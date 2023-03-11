@@ -1,0 +1,70 @@
+.outer{
+    width: 9rem;
+    height: 9rem;
+    background-color: #454545;
+    color: white;
+    border-radius: 5px;
+    border-left: 5px aquamarine solid;
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px 0 27px;
+    padding: 2px 2px 3px 5px;
+}
+
+.heading{
+    text-align: left;
+    margin-top: 10px;
+    padding: 0 0 5px 0;
+    display: flexbox;
+    flex-direction: column;
+    height: 80px;
+    
+}
+
+.itemName{
+    font-family: 'poppins';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.price{
+    flex: 1;
+    font-family: 'poppins';
+    font-weight: 300;
+}
+
+
+.time{
+    text-align: left;
+    font-family: 'poppins';
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.oparator{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.oparator>button{
+    background: none;
+    outline: white;
+    outline: 1px solid white;
+    border: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 15px;
+    color: white; 
+    cursor: pointer;   
+}
+
+
+.oparator>label{
+    margin: 0 10px;
+    font-family: 'poppins';
+    font-weight: 400;
+}

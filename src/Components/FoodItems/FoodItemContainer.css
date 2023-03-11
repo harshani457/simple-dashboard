@@ -1,0 +1,22 @@
+.outer{
+    width: 100%;
+    height: fit-content;
+    max-height: 16rem;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 2px solid white;
+    padding-bottom: 20px;
+    overflow-y: scroll;
+
+
+}
+
+.outer::-webkit-scrollbar{
+    background-color: white;
+    border-radius: 10px;
+    width: 10px;
+}
+.outer::-webkit-scrollbar-thumb{
+    background-color: #DA4D4D;
+    border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+.logoOuter{
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    margin: 10px 30px 10px 10px;
+}
+
+.logo{
+    width: 100%;
+}

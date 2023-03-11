@@ -1,0 +1,23 @@
+.Outer{
+    display: flex;
+    width: 80%;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    margin: 0 auto; 
+    border-bottom: 1px solid white;
+}
+
+.OrderId{
+    color: azure;
+}
+
+
+.OrderStatus{
+    background-color: #2980B9;
+    height: fit-content;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 0 5px;
+}

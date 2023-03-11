@@ -1,0 +1,28 @@
+.outer{
+    width: fit-content;
+    position: relative;
+    display: flex;
+    height: 25px;
+    margin: auto 0;
+}
+
+.input{
+    background-color: #2d2d2d;
+    font-size: 1rem;
+    border: none;
+    color: white;
+    border-radius: 0 5px 5px 0;
+
+}
+
+.searchIco{
+    width: 10%;
+    background-color: #2d2d2d;
+    border-radius: 5px 0 0 5px;
+}
+
+.input:focus{
+    outline: none;
+    border: none;
+}
+
