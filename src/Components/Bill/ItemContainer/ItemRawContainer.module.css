@@ -1,0 +1,39 @@
+.container{
+    height: 45vh;
+    max-height: 45vh;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    overflow-x: hidden;
+}
+
+.container::-webkit-scrollbar{
+    background-color:white ;
+    width: 10px;
+    border-radius: 5px;
+    
+}
+
+.container::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: #DA4D4D;
+}
+
+.box{
+    width: 90%;
+    height: 100%;
+    position: absolute;
+    background-image: -webkit-linear-gradient( rgba(70, 70, 70, 0) 80%,rgba(41, 44, 45, 0.308) 10%,rgb(17, 19, 21) );
+    /* background-color:rgba(0, 0, 0, 0) ; */
+    backdrop-filter: blur(px);
+    margin-left: 20px;
+}
+
+.wrap{
+    position: relative;
+}
+
+
+
+
+
+
