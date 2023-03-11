@@ -15,17 +15,17 @@
 
 .container::-webkit-scrollbar-thumb{
     border-radius: 5px;
-    background-color: #DA4D4D;
+    background-color: #5e5656;
 }
 
 .box{
     width: 90%;
     height: 100%;
     position: absolute;
-    background-image: -webkit-linear-gradient( rgba(70, 70, 70, 0) 80%,rgba(41, 44, 45, 0.308) 10%,rgb(17, 19, 21) );
+    background-image: -webkit-linear-gradient( rgba(19, 17, 17, 0) 87%,rgba(41, 44, 45, 0.308) 10%,rgb(17, 19, 21) );
     /* background-color:rgba(0, 0, 0, 0) ; */
     backdrop-filter: blur(px);
-    margin-left: 20px;
+    margin-left: 28px;
 }
 
 .wrap{
