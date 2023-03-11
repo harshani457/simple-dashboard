@@ -1,6 +1,6 @@
 import React from "react";
-import OrderRecode from "./OrderRecode";
-import classes from "./OrderList.module.css"
+import OrderRecode from "./OrderRecord";
+import classes from "./OrderListOuter.module.css";
 
 const OrderListOuter = () => {
     return ( 

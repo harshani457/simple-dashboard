@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./MainLogo.module.css"
-import imageSrc from "../../assets/iCET logo.png"
+import imageSrc from "../../../assets/iCET logo.png"
 
 const Mainlogo = () => {
     return ( 

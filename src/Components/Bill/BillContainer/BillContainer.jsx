@@ -1,8 +1,8 @@
 import React from 'react';
 import classes from './BillContainer.module.css';
-import CustomerDetails from './CutomerDetails/CustomerDetails';
-import ItemRawContainer from './ItemRawContainer/ItemRawContainer';
-import Payment from './Payment/Payment';
+import CustomerDetails from '../CustomerDetails/CustomerDetails';
+import ItemRawContainer from '../ItemContainer/ItemRawContainer';
+import Payment from '../Payment/Payment';
 
 const BillContainer = () => {
     return ( 

@@ -1,5 +1,5 @@
 import './App.css';
-import MainUi from './components/MainUi/MainUi';
+import MainUi from './Components/MainUi/MainUi';
 
 function App() {
   return (

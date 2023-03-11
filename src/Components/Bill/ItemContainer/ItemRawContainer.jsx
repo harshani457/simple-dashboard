@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './ItemRawContainer.module.css';
-import ItemRaw from './ItemRaw/ItemRaw';
+import ItemRaw from './ItemRaw';
 
 function ItemRawContainer() {
     return (

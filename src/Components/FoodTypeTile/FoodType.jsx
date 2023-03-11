@@ -1,5 +1,5 @@
 import React,{ useState } from 'react';
-import classes from './foodType.module.css'
+import classes from './FoodType.module.css'
 
 function FoodType(props) {
 

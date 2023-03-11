@@ -1,6 +1,6 @@
 import React from "react";
 import classes from './FoodTypeContainer.module.css';
-import FoodType from "./foodType";
+import FoodType from "./FoodType";
 import breakfast_img from "../../assets/breakfast.png"
 import Lunch_img from "../../assets/lunch.png"
 import Dinner_img from "../../assets/dinner.png"

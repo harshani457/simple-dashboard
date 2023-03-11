@@ -1,6 +1,6 @@
 import React from "react";
-import Mainlogo from "./MainLogo";
-import SearchBar from "./SearchBar/SearchBar";
+import Mainlogo from "../MainLogo/MainLogo";
+import SearchBar from "../SearchBar/SearchBar";
 import classes from "./UpperNavBar.module.css"
 
 const UpperNavBar = () => {
