@@ -41,6 +41,3 @@ const MainUi = () => {
 }
  
 export default MainUi;
-<div>
-
-</div>
